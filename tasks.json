@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": "e0b5c1a7-1d2e-4b7f-b2a6-c9a7bde2916c",
+      "title": "Welcome to TaskMaster Pro",
+      "description": "This is a sample task to get you started. You can delete this and add your own!",
+      "priority": "high",
+      "completed": false,
+      "createdAt": "2023-11-20T10:00:00.000Z"
+    }
+  ]
+}
